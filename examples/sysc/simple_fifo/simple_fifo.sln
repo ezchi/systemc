@@ -1,4 +1,4 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_fifo", "simple_fifo.vcxproj", "{1CDB535E-14E9-4E52-8898-0CE0B826B97C}"
